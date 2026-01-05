@@ -1,4 +1,3 @@
-```markdown
 # Comparison: LangGraph vs. crewAI vs. AutoGen1
 
 ## LangGraph (+ LangChain)
@@ -67,4 +66,3 @@ a high-level, role-playing interface.
 
 Choose AutoGen if your task requires agents to write and test code, or if you want a highly dynamic 
 system where agents “argue” until they find the best solution.
-```
